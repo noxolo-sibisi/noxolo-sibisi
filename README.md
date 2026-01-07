@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software developer focused on building backend systems with Java, Springboot, and websites wuth HTML, CSS, and JavaScript
+I am a software developer focused on building backend systems with Java, Springboot, and websites with HTML, CSS, and JavaScript
 
 
 - 🔭 I’m currently honing my skills in Spring Boot by building a personal project - a RESTful API.
